@@ -1,0 +1,15 @@
+1) Fashion MNIST
+
+2) 28x28 Greyscale
+
+3) 70,000
+
+4) There are 10 different labels
+
+5) It only returns x if x is greater than zero
+
+6) To test a network with previously unseen data
+
+7) on_epoch_end
+
+8) callbacks=
