@@ -1,0 +1,15 @@
+1) Answers
+
+2) Rules
+
+3) Labelling the Data
+
+4) A layer of connected neurons
+
+5) Measures how good the current ‘guess’ is
+
+6) Generates a new and improved guess
+
+7) The process of getting very close to the correct answer
+
+8) It trains the neural network to fit one set of values to another
