@@ -1,0 +1,11 @@
+1) A technique to isolate features in images
+
+2) A technique to reduce the information in an image while maintaining features
+
+3) They isolate features in images
+
+4) 26x26
+
+5) 13x13
+
+6) It depends on many factors. It might make your training faster or slower, and a poorly designed Convolutional layer may even be less efficient than a plain DNN!
