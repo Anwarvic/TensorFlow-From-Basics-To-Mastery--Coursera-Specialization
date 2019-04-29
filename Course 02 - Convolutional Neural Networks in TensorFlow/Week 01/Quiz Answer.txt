@@ -1,0 +1,15 @@
+1) All of the above
+
+2) 148x148
+
+3) 75x75
+
+4) Create a variable ‘history’ and assign it to the return of model.fit or model.fit_generator
+
+5) The model.layers API
+
+6) A bigger training set would give us better validation accuracy
+
+7) The validation accuracy is based on images that the model hasn't been trained with, and thus a better indicator of how the model will perform with new images.
+
+8) Because there's less likelihood of all possible features being encountered in the training process.
