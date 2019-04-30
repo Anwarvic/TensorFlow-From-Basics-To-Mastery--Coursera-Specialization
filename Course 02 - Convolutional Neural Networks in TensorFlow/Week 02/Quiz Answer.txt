@@ -1,0 +1,15 @@
+1) Using parameters to the ImageDataGenerator
+
+2) Use the ‘horizontal_flip’ parameter
+
+3) Because the augmented data is bigger
+
+4) It attempts to recreate lost information after a transformation like a shear
+
+5) Nothing, all augmentation is done in-memory
+
+6) It manipulates the training set to generate more scenarios for features in the images
+
+7) Slower
+
+8) True
