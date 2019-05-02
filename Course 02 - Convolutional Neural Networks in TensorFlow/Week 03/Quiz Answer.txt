@@ -1,0 +1,15 @@
+1) 20% of them
+
+2) Because I can use the features that were learned from large datasets that I may not have access to
+
+3) layer.trainable = false
+
+4) When you add your DNN at the bottom of the network, you specify your output layer with the number of classes you want
+
+5) Yes, because you are adding new layers at the bottom of the network, and you can use image augmentation when training these
+
+6) Because neighbor neurons can have similar weights, and thus can skew the final training
+
+7) The network would lose specialization to the effect that it would be inefficient or ineffective at learning, driving accuracy down
+
+8) tf.keras.layers.Dropout(0.2),
