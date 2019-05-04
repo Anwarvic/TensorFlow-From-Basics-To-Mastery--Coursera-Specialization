@@ -1,0 +1,15 @@
+1) Answers
+
+2) The dataset has 10 classes
+
+3) A technique to extract features from an image
+
+4) It depends on many factors. It might make your training faster or slower, and a poorly designed Convolutional layer may even be less efficient than a plain DNN!
+
+5) rescale
+
+6) Nothing
+
+7) Yes. It's pre-trained layers that are frozen. So you can augment your images as you train the bottom layers of the DNN with them
+
+8) class_mode='categorical'
